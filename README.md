@@ -4,7 +4,7 @@
   Todo App, günlük görev takibini kolaylaştırmak için tasarlanmış, modern ve karanlık tema (dark mode) odaklı bir mobil uygulama arayüzü projesidir. Minimal tasarımı, ilerleme göstergesi ve sade etkileşimleriyle kullanıcıya odaklanmış bir deneyim sunar.
 </p>
 
-<img src="./gif/todo.gif">
+<img src="./gif/todo.gif" height=300>
 
 ## Öne Çıkan Özellikler 
 
